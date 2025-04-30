@@ -3,4 +3,5 @@ A dialogue system project which allows one to simulate dialogue between 2 or mor
 The dialogue system is fully customizable via editor itself so it is very designer friendly.
 
 ### 🎬 Demo Preview
-![Dialogue System showcase](https://github.com/user-attachments/assets/d2fcbc3e-6dac-43f6-bead-e1b1a16713ee)
+![Dialogue System showcase](https://github.com/user-attachments/assets/a949e6da-d087-4aa0-b34d-43f252d3bb5d)
+
